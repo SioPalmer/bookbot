@@ -1,4 +1,4 @@
-filepath = "books/frankenstein.txt"
+
 chara_count = {}
 
 def word_count(text):
